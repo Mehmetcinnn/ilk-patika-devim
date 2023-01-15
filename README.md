@@ -1,2 +1,2 @@
-# ilk-patika-devim
+# ilk-patika-ödevim
 index.html
